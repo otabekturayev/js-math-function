@@ -1,6 +1,6 @@
 
 function pow(x, n){
-    console.log(x ** n)
+    return x ** n
 }
 let result = pow(x, n)
 console.log(result)
